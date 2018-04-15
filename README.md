@@ -1,8 +1,10 @@
 # Messenger to Markdown
 
-Use this Chrome extension to convert your currently active conversation on
+Use this extension to convert your currently active conversation on
 [messenger.com][0] to markdown. Useful for pasting conversations elsewhere,
 especially into a journal like [Day One][1]
+
+Works on Chrome and Firefox.
 
 # Installation instructions
 
