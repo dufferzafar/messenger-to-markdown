@@ -10,9 +10,18 @@ Works on Chrome and Firefox.
 
 1. [Download this extension as a zip file][2]
 2. Unzip it
-3. Go to chrome://extensions via the Chrome URL bar
+
+### Chrome
+
+3. Go to `chrome://extensions` via the Chrome URL bar
 4. Click the "Load unpacked extension..." button
 5. Select the unzipped folder created in step 2
+
+### Firefox
+
+3. Go to `about:debugging` via the URL bar
+4. Click the "Load Temporary Add-on" button
+5. Select any file inside the unzipped folder created in step 2
 
 [0]: https://www.messenger.com
 [1]: http://dayoneapp.com/
